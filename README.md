@@ -14,7 +14,6 @@
 3. Buat database baru dengan nama ***wallpaper***, lalu import file `wallpaper.sql` ke dalamnya.
 4. Download repository ini,  lalu simpan ke dalam folder htdocs anda.
 5. Akses *http://localhost/wallpaper/lp* pada browser yang anda gunakan,  maka akan muncul halaman Wellcome to Barbershop (Landing Page).
-6. Buka file pada Visual Studio Code `application/config/database.php` lakukan konfigurasi berikut ini.
 
 **4. Penjelasan Source Code**
 - Saya menggunakan template AdminLTE dari bootstrap untuk admin.
